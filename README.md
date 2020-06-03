@@ -2,6 +2,9 @@
 ## Use Python/Java to wirte code in Leetcode
 https://github.com/Yueqi-19/Leetcode-Algorithm-Python.git
 
+## Data structure
+![img](https://github.com/Yueqi-19/Leetcode-Algorithm-Python/blob/master/datastructure.png)
+
 ## 讲义
 https://github.com/leetcode-pp/91alg-1
 
