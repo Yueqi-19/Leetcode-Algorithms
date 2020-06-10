@@ -15,6 +15,9 @@ https://github.com/leetcode-pp/91alg-1/blob/master/basic-04.md
 ### 【91 算法-基础篇】05.双指针
 https://lucifer.ren/blog/2020/05/26/91algo-basic-05.two-pointer/
 
+## 自己的解法
+https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues
+
 ## 每天打卡的题目记录
 1.https://github.com/leetcode-pp/91alg-1/issues/1 数组Plus one
 
