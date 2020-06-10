@@ -22,27 +22,27 @@ https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues
 https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues/1
 
 ## 每天打卡的题目记录
-1.https://github.com/leetcode-pp/91alg-1/issues/1 数组Plus one
+1. https://github.com/leetcode-pp/91alg-1/issues/1 数组Plus one
 
   leetcode:https://leetcode-cn.com/problems/plus-one
 
-2.https://github.com/leetcode-pp/91alg-1/issues/15 颜色分类 荷兰旗问题
+2. https://github.com/leetcode-pp/91alg-1/issues/15 颜色分类 荷兰旗问题
 
   leetcode:https://leetcode-cn.com/problems/sort-colors
 
-3.https://github.com/leetcode-pp/91alg-1/issues/18 设计一个增量操作的栈
+3. https://github.com/leetcode-pp/91alg-1/issues/18 设计一个增量操作的栈
 
   leetcode:https://leetcode-cn.com/problems/design-a-stack-with-increment-operation
 
-4.https://github.com/leetcode-pp/91alg-1/issues/20 字符串解码
+4. https://github.com/leetcode-pp/91alg-1/issues/20 字符串解码
 
   Leetcode:https://leetcode-cn.com/problems/decode-string
 
-5.https://github.com/leetcode-pp/91alg-1/issues/21 用栈实现队列
+5. https://github.com/leetcode-pp/91alg-1/issues/21 用栈实现队列
 
   Leetcode:https://leetcode-cn.com/problems/implement-queue-using-stacks/
   
-6.https://github.com/leetcode-pp/91alg-1/issues/23 常数时间插入、删除和获取随机元素
+6. https://github.com/leetcode-pp/91alg-1/issues/23 常数时间插入、删除和获取随机元素
 
   Leetcode:https://leetcode-cn.com/problems/insert-delete-getrandom-o1/
   
@@ -50,18 +50,18 @@ https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues/1
 
   Leetcode:https://leetcode-cn.com/problems/reverse-linked-list/
   
-8.https://github.com/leetcode-pp/91alg-1/issues/25 扁平化多级双向链表
+8. https://github.com/leetcode-pp/91alg-1/issues/25 扁平化多级双向链表
 
   Leetcode:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
   
-9.https://github.com/leetcode-pp/91alg-1/issues/27 有序链表转换二叉搜索树
+9. https://github.com/leetcode-pp/91alg-1/issues/27 有序链表转换二叉搜索树
 
   Leetcode:https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/
   
-10.https://github.com/leetcode-pp/91alg-1/issues/28 相交链表 
+10. https://github.com/leetcode-pp/91alg-1/issues/28 相交链表 
 
-   Leetcode:https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
+  Leetcode:https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
    
-11. https://github.com/leetcode-pp/91alg-1/issues/29
+11. https://github.com/leetcode-pp/91alg-1/issues/29 环形链表 II
 
   Leetcode:https://leetcode-cn.com/problems/linked-list-cycle-ii/
