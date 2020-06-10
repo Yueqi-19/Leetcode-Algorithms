@@ -18,6 +18,9 @@ https://lucifer.ren/blog/2020/05/26/91algo-basic-05.two-pointer/
 ## 自己的解法
 https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues
 
+1. #66 Plus one
+https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues/1
+
 ## 每天打卡的题目记录
 1.https://github.com/leetcode-pp/91alg-1/issues/1 数组Plus one
 
