@@ -37,3 +37,31 @@ https://github.com/Yueqi-19/Leetcode-Algorithm-Python/issues/1
 4.https://github.com/leetcode-pp/91alg-1/issues/20 字符串解码
 
   Leetcode:https://leetcode-cn.com/problems/decode-string
+
+5.https://github.com/leetcode-pp/91alg-1/issues/21 用栈实现队列
+
+  Leetcode:https://leetcode-cn.com/problems/implement-queue-using-stacks/
+  
+6.https://github.com/leetcode-pp/91alg-1/issues/23 常数时间插入、删除和获取随机元素
+
+  Leetcode:https://leetcode-cn.com/problems/insert-delete-getrandom-o1/
+  
+7.https://github.com/leetcode-pp/91alg-1/issues/24 反转列表
+
+  Leetcode:https://leetcode-cn.com/problems/reverse-linked-list/
+  
+8.https://github.com/leetcode-pp/91alg-1/issues/25 扁平化多级双向链表
+
+  Leetcode:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
+  
+9.https://github.com/leetcode-pp/91alg-1/issues/27 有序链表转换二叉搜索树
+
+  Leetcode:https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/
+  
+10.https://github.com/leetcode-pp/91alg-1/issues/28 相交链表 
+
+   Leetcode:https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
+   
+11. https://github.com/leetcode-pp/91alg-1/issues/29
+
+  Leetcode:https://leetcode-cn.com/problems/linked-list-cycle-ii/
