@@ -1,3 +1,4 @@
+//Classical Binary Search
 public class Solution {
   public int binarySearch(int[] array, int target) {
     if (array==null||array.length==0){
